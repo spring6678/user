@@ -130,3 +130,7 @@ void main()
         }
     }
 }
+
+void testGit(uchar ucData) {
+    ucData++;    
+}
